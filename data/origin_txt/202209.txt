@@ -171,7 +171,7 @@ https://www.theblockbeats.info/news/31959
 [https://threadreaderapp.com/thread/1574834375409242118.html](https://threadreaderapp.com/thread/1574834375409242118.html)
 
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】全面解读Cosmos2.0：从链间安全捕获ATOM价值
 【核心内容简介】
 昨天，Cosmos公布了2.0版本的白皮书，一些核心观点摘录如下：
@@ -188,7 +188,7 @@ https://www.odaily.news/post/5182004
 https://mp.weixin.qq.com/s/oIaI_O_0agXmzF_WPe3hTw
 
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】Rentable项目创始人关于关停的三点反思
 【核心内容简介】
 Rentable是一个NFT租赁协议项目，几个月之前还非常的火爆，尤其是在6月 NFT租赁协议标准 ERC-4907 通过后，短短几个月，项目不再继续，项目创始人总结的原因包括已下几点：
@@ -219,7 +219,7 @@ bayc.com 应该成为社区活动空间的聚合器，以及该社区市场的�
 https://foresightnews.pro/article/h5Detail/7333
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】Web3 初创公司的代币薪酬体系
 【核心内容简介】
 本文对 web3 初创公司如何建立合理的代币薪酬体系进行了详细描述。分别从代币薪酬对于吸引人才的重要性、代币薪酬与传统薪酬的相似性及区别、合理的薪酬体系所包含的要素、代币薪酬可能面临的问题及其相应的解决方案进行了分析论述。
@@ -246,7 +246,7 @@ DID 改变了传统意义上对「身份」的定义。「我」是我当前行�
 DID 身份开始具备了权益和价值，它将非金融类行为转换成了「信誉」，将金融类行为量化成「信贷」值。人的信誉来源于两个方面：一是社会声誉、社交关系对你的肯定，即通过链下KYC认证DID；二是行为和数据沉淀沉淀的客观证明，这块很卷，大家都在试图打通链上行为来构建人员画像；核心壁垒变成了谁生产的链上原生数据多（并有平台掌控力），这也是 Galaxy ID 爆火的原因。
 【相关链接】https://dodotopia.notion.site/DID-Web3-4e42be193f264f46bf3757e423a8481b
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】a16z：详解衡量AMM LP成本的新方法LVR
 【核心内容简介】
 LVR （相对损失再平衡，Loss Versus Rebalancing）的定义是：给定任意 AMM 上的任意交易序列，LVR 是通过 AMM 而不是在公开市场上执行交易所产生的损失总和。
@@ -257,7 +257,7 @@ AMM只有让LP获得足够收益才能成功，这意味着费用收入需要与
 【相关链接】
 https://www.odaily.news/post/5181860
 
-【输出人】shuang^
+【输出人】shuang
 【主题】详解以太坊升级的五个阶段：10 万 TPS 升级之路
 【核心内容简介】
 虽然目前的以太坊有Gas 高昂、TPS 低下、扩展性不足等缺陷，在理想化的 Web3 叙事面前仍显青涩，本文对 “Vitalik -以太坊五次升级”进行了拆解说明。其分别为 The Merge、The Surge、The Verge、The Purge、The Splurge 。Merge只是其中最先完成的一步，整体可能是同时进行的，没有先后顺序。
@@ -277,7 +277,7 @@ https://foresightnews.pro/article/h5Detail/15015
 
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】拆解Web3基础组件：数据、存储、计算
 【核心内容简介】
 专注于数据、存储、计算的区块链构成了Web3的重要基石，文内选取了25个代表性项目，对Web3基础设施的发展现状、特点以及未来展望进行了探讨。
@@ -447,7 +447,7 @@ https://web-assets.bcg.com/1e/a2/5b5f2b7e42dfad2cb3113a291222/on-chain-asset-tok
 【个人思考】这是监管层首例对DAO这个新型组织的指控以及制裁，委员会将 Ooki DAO 非法人协会定义为了 Ooki Token 的持有者，这些持有者对有关运营业务的治理提案进行了投票，而这项定义则源于 Bean 和 Kistner 就属于 Ooki Token 持有者。这种做法明显是不公平的，委员会的做法将产生不利于投票的寒蝉效应，从而阻碍良好治理并在这种情况下难以形成合规文化。而从委员会在这此执法行动中的定义方法即可表明：DAO 社区中的人不应该投票，即使治理投票鼓励遵守法律。我相信这个案例将会对未来DAO在法律上的定义产生十分重要的影响。
 【相关链接】https://m.theblockbeats.info/news/31920
 
-【输出人】Yue Han
+【输出人】YueHan
 【主题】LayerZero的多链野心：技术简析与生态项目一览
 【核心内容简介】文章首先讲述了LayerZero的运作机制：LayerZero 通过在链上部署一系列的智能合约（Endpoint）实现去中心化信息跨链服务。Endpoint 上运行着超轻节点，“超轻”两个字体现在该节点只提供指定区块的 Block header。传输过程中，通过 Oracle 与 Relayer 保证信息发送的有效性与安全性。Endpoint 是一个部署在链上的合约，负责提供消息的发送与接收。Relayer 和 Oracle 功能职责是一致的，都是发挥预言机 的功能，不过传输的内容有所不同，两者相互独立运行，再由接收链的 Endpoint 对 Relayer 和 Oracle 发送来的信息进行验证与匹配，提高 LayerZero 的安全冗余性。具体的细节，可以参考《深入浅出：如何理解 Layer Zero 技术原理》一文。
 文章的第二部分描述了LayerZero的代表生态项目，包括致力于构建完全可组合的原生资产跨链桥协议Layer Zero；主打零滑点，MEV 保护的跨链 DEX，通过使用 LayerZero 实现跨链消息传递的Hashflow，以及部署在 Arbitrum 上基于 LayerZero/Stargate 的多链借贷项目Radiant等。
@@ -470,7 +470,7 @@ https://foresightnews.pro/article/detail/2100
 【个人思考】一个「内生的」系统被定义为一个由其生态内抵押品支持的系统。LUNA 对 UST 来说是内生的，而美元则存在于 USDC 生态之外，所以 USDC 是「外生」的。大约 8% 的 FRAX 由销毁 FXS 来支持，所以 FRAX 是内生的，只需根据需要相应调整其算法。往前看FRAX关于100%抵押的提案似乎很有前瞻性。如果该法案真正通过成为法律，其主要效果之一将是削弱美国。把 Stablecoin 创新留在美国境内符合美国的国家利益。保留以美元计价的全部 DeFi 是一个国家安全问题。美国从美元主导地位中获得了很多好处，所以促进美元 Stablecoin 的健康生态系统是美国将这种力量扩展到新经济中的最佳选择。吓跑了想要构建美元 Stablecoin 的创新者，这直接威胁了美国繁荣。但撇开骗子不谈，试图建立 Stablecoin 的人都不希望它垮掉。真正的 builder 们关注 Terra，吸取教训以防止类似情况发生。他们不需要立法者来告诉他们 UST 是一个不健全的庞氏骗局。他们正忙着研发真正有效的 Stablecoin 公式，并在此基础上进行扩展。
 【相关链接】https://m.marstelegram.com/newsdetailShare/20220923194300461273.html
 
-【输出人】FrankMiao
+【输出人】Frank
 【主题】对话王峰：看好功能性 NFT 方向，Element 与 OpenSea 的唯一差距是时间
 【核心内容简介】
 谈 NFT 平台：
@@ -494,7 +494,7 @@ https://foresightnews.pro/article/detail/2100
 【相关链接】
 https://www.chaincatcher.com/article/2079850
 
-【输出人】Yue Han
+【输出人】YueHan
 【主题】PFP时代后，NFT 2.0哪些赛道值得关注？
 【核心内容简介】作者的核心观点认为：下一阶段应该并不是某个 NFT 突然火起来带动其他领域（如：3D 系列 PFP 带动整个 3D 图），而是创新的应用展示让人们重新看到 NFT 的作用。而从操作的角度，作者认为：以及大家只需要对看好的领域，关注自己认为的头部就好，没必要埋伏太多。
 作者具体看好的赛道包括：
@@ -506,7 +506,7 @@ https://www.chaincatcher.com/article/2079850
 【相关链接】https://www.odaily.news/post/5181780
 
 
-【输出人】Yue Han
+【输出人】YueHan
 【主题】下一轮周期的「超自然推手」会是什么？
 【核心内容简介】作者一上来提出的观点是任何市场，都不能忽略外部的经济宏观环境的影响，加密货币亦是如此。对于作为风险资产的加密货币来说，真正的超自然推手是美联储的「印钞机」。只有当我们有了新事物的叙事，加密市场才能够实现宏观反动（Macro-Reactionary），或者说与宏观背景抗衡。宏观叙事通常是随着时间的推移积累力量，只有在与新鲜事物和技术接触并混合后才会加速发展。因此我们不应该依赖宏观叙事，而是应该探索未来潜在的微观叙事。
 作者列举的几个新的故事中包括：1）DeFi 2.0； 2）Web3商业；3）Web3社交）；4）去中心化科学；5）原子世界。每一个概念都在文中有具体的解释，“去中心化科学”和“原子世界”的概念我还是第一次听说，背后有很有意思的逻辑。
@@ -517,7 +517,7 @@ https://www.chaincatcher.com/article/2079850
 2022-09-23-Fri
 
 
-【输出人】FrankMiao
+【输出人】Frank
 【主题】杠杆化的研发模式会是高成本游戏的曙光么？
 【核心内容简介】
 内容质量-用户需求螺旋——内容质量高的游戏培育出对内容质量要求高的用户，要求高的用户反过来推动游戏不断提升内容质量。奈何玩家其实是买账这种成本模式的，体验不计成本和极尽奢华本就是一种精神享受。这种自我加强，也会让行业冲向不归路。WEB3 之于 3A 可以：
@@ -649,7 +649,7 @@ https://mirror.xyz/jojonas1.eth/oi27pJiHzc62DE1P2YfB1XTNlH7Ousgr-k0UunvJsj4
 【相关链接】https://youtu.be/o7x_mikyMWU
 
 
-【输出人】Yue Han
+【输出人】YueHan
 【主题】吸血、迁移与资本局，Move 公链大火背后
 【核心内容简介】Move 公链 Sui与Aptos大火，吸引了很多其他公链项目快速迁移过来。这其中最多的项目来着Solona生态，比如文中提到Aptos 生态的 DeFi 所有赛道几乎被 Solana 生态的 DeFi 项目给包场了，例如 DEX、NFT、借贷、衍生品、跨链桥等每个 DeFi 细分赛道，都至少有两到三个以上的 Solana 上运行较成熟的项目方在开发 Move 版本。第二大生态来自Polkadot生态，例如不久前在波卡Move生态大会上，多个波卡项目都介绍了其即将在 Aptos 与 Sui 生态上部署的多款产品和项目计划，甚至有团队在Move生态已部署超过5个产品。文中也总结提到，和之前火热的公链赛道不同，这次并没有看到太多中国资本参与到这个过程中，目前华人背景VC中公开表示参与 MOVE 生态投资建设的主要是 Bixin Ventures 和 A&T。
 【个人思考】文中有很多观点和事实对于做项目还是很有启发的，前段时间聊了一些Aptos生态的新项目，确实大多数都是在Solona上已经做过开发，想吃一波Move的红利，才布局Aptos生态。透过现象看本质，从项目方的角度，一款产品部署多个公链（或多款类似产品），无非是想在生态初期或者不同阶段，通过不同的故事和策略，捕获项目最大的价值。从公链L1的角度讲，重复造车的本质还是希望通过技术创新，捕获一个繁荣的生态。回归商业的本质，只要有利益的地方，自然会吸引很多逐利者。作为个人投资者，努力鉴别有确定性机会的大周期和小周期，才是获得投资回报最确定的方式。
@@ -657,7 +657,7 @@ https://mirror.xyz/jojonas1.eth/oi27pJiHzc62DE1P2YfB1XTNlH7Ousgr-k0UunvJsj4
 
 
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】开启链游技术架构新序章 — 基于 Arweave 打造纯链上游戏 By W Labs Potter &PermaDao
 【核心内容简介】
 传统游戏链改可以让用户真正拥有道具资产，结合开放性市场和跨游戏的组合应用。但实际上现在困于存储计算和响应时间的问题，难以实现真正链游，多数不过资产上链，链下执行。Arweave在着力解决技术困局，依据经济博弈结合独特的Blockweave结构，鼓励矿工存储更多数据，而链上存储的账本并非全量账本而是用户的输入输出操作list，可谓是图灵机纸带。因此arweave实现了底层表存储，剥离了计算成本转为记录操作而计算由应用自身进行。总之这种模式中每个游戏服务都是一个 Arweave 的 L2 层。
@@ -670,8 +670,7 @@ https://mirror.xyz/iamwgg.eth/EQMpfFghS7x9rxOxwrmQVUBabSgxijC97ZXw86IvZjM
 
 
 2022-09-22-Thu
-【输出人】
-@linus
+【输出人】@linus
 【主题】哪种 Optimism 节点更好？公共节点 vs. 私人节点 vs. 自托管节点
 【核心内容简介】
 optimistic rollup 通过将计算和数据储存迁移至链下，利用以太坊的安全性来提升以太坊基础层的吞吐量并改善它的网络延迟。
@@ -691,7 +690,7 @@ https://www.alchemy.com/overviews/optimism-node
 https://web3caff.com/zh/archives/32440
 
 
-【输出人】FrankMiao
+【输出人】Frank
 【主题】杠杆化的研发模式会是高成本游戏的曙光么？
 【核心内容简介】
 内容质量-用户需求螺旋——内容质量高的游戏培育出对内容质量要求高的用户，要求高的用户反过来推动游戏不断提升内容质量。奈何玩家其实是买账这种成本模式的，体验不计成本和极尽奢华本就是一种精神享受。这种自我加强，也会让行业冲向不归路。WEB3 之于 3A 可以：
@@ -708,7 +707,7 @@ https://mp.weixin.qq.com/s/vLyGHMr5AgaXAEbo5aSK9Q
 ---
 
 
-【输出人】FrankMiao
+【输出人】Frank
 【主题】杠杆化的研发模式会是高成本游戏的曙光么？
 【核心内容简介】
 内容质量-用户需求螺旋——内容质量高的游戏培育出对内容质量要求高的用户，要求高的用户反过来推动游戏不断提升内容质量。奈何玩家其实是买账这种成本模式的，体验不计成本和极尽奢华本就是一种精神享受。这种自我加强，也会让行业冲向不归路。WEB3 之于 3A 可以：
@@ -724,7 +723,7 @@ https://mp.weixin.qq.com/s/vLyGHMr5AgaXAEbo5aSK9Q
 https://mp.weixin.qq.com/s/vLyGHMr5AgaXAEbo5aSK9Q
 
 
-【输出人】FrankMiao
+【输出人】Frank
 【主题】从下一代数据中心的角度，谈谈为何Web3终将到来
 【核心内容简介】
 下一代数据中心，会呈现分布式（邦联化）和去中心化的形态。
@@ -772,19 +771,6 @@ Aptos Move 語言和 Flow Cadence 頗有相似之處，不過它們早在 2020 �
 生態方面雖有看到基建雛形，但如此高的估值，除了性能上也該要有值得期待的特殊場景，替 Aptos 引入更廣大的用戶，引領新的敘事。就像 Solana 有 Stepn 帶入新用戶、BSC 有幣安爸爸持續灌輸資源、Flow 有超強的 Web2 IP 聯名
 【相关链接】
 https://www.theblockbeats.info/news/31867
-
-
-
-【输出人】smartweb
-【主题】应用链叙事流行之际，Helium为何计划放弃独立链并迁移至 Solana？
-【核心内容简介】
-Web3的产业明珠Helium核心开发者最近发起HIP70提案，内容是将 Helium 的代币和治理迁移至 Solana 区块链，包括HNT、DC、IOT 和 MOBILE构建的全部生态经济。
-迁移的理由是一、大幅简化现有系统架构并提升运营效率；二、还能使用可组合性更高的Solana开发者工具、功能和应用，最终实现更大的规模经济效应。 
-【个人思考】Helium项目HNT币价已经从2021年11月15日的最高点51美金，截止到昨天(9月22日）跌到4.3美金。自8月30日起，HNT的跌幅一度超过45%，也远高于市场整体跌幅。所以在熊市阶段，Helium更需要真实的客户落地场景来证明自己。
-Helium目前虽然已经推出支持5G的网络，但实际使用的用户还很少，硬件共享人的收入也越来越低。而Solana Lab 在今年6月宣布正在开发一款专注于 Web3的新安卓手机 Saga，并计划于 2023 年初开始交付。如果Helium能成功迁移到Solana，那么Saga手机说不定也可以支持Helium的5G网络，是一件双赢的事。
-在全球经济衰退前兆下，所有企业都更关注降本和造血，即使融资超过3亿美金的Helium也不例外。
-【相关链接】[https://www.chaincatcher.com/article/2079536](https://www.chaincatcher.com/article/2079536)
-
 
 
 2022-09-21-Wed

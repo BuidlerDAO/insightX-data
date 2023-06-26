@@ -357,7 +357,7 @@ Aptos 的长期成功取决于选择在其上构建的项目。目前，其生�
 【相关链接】https://www.panewslab.com/zh/articledetails/4ynw39dm.html
 
 
-【输出人】shuang^
+【输出人】shuang
 🌟【主题】研究｜GMX——最为原生的衍生品黑马
 【核心内容简介】
 GMX: 现货+衍生品交易所，采用全局债务的形式作为交易对手方。抵押品并不是无价值币，而是由对应比例的资产组成的合成资产——GLP 来作为抵押品。
@@ -386,7 +386,7 @@ https://mp.weixin.qq.com/s/Qm3IOPYjA6HhY6A7n-tGCg
 GMX 官网：https://app.gmx.io
 https://gmxio.gitbook.io/gmx/tokenomics
 
-【输出人】shuang^
+【输出人】shuang
 【主题】DeFi 如何塑造长期主义：质押分红、燃烧通缩和税收模型
 【核心内容简介】
 目前协议向代币持有人发放收入的方法：
@@ -414,7 +414,7 @@ Key takeaways:
 【相关链接】
 https://mp.weixin.qq.com/s/Mj9LEb8T1SV2CHR-xZimqg
 
-【输出人】shuang^
+【输出人】shuang
 【主题】NFT 碎片化 vs。 NFT AMM：谁是下一个帮助 NFT 走向市场破局的发力点？ 
 【核心内容简介】
 - NFT 碎片化
@@ -438,7 +438,7 @@ https://mp.weixin.qq.com/s/Mj9LEb8T1SV2CHR-xZimqg
 https://mp.weixin.qq.com/s/-ffT0aX4RSPV35o_2n5mww
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】关于 NFT 创业生态系统，我们应该知道些什么？
 【核心内容简介】
 关于 NFT Fi 赛道的创业公司类别：
@@ -462,7 +462,7 @@ https://mp.weixin.qq.com/s/s4QAl_MyBEavRK0Gro7ubg
 
 2022-10 月第 3 周
 
-【输出人】shuang^
+【输出人】shuang
 【主题】成本和效益：思考 DAO 的法律结构
 【核心内容简介】
 评评估一个 DAO，可以分为已注册 DAO 和未注册 DAO。在一个 DAO 选择它想要的结构和该如何定位自己之前，从法律的角度来看，重要的是理解如下术语：即「功能等效」和「监管等效」。其中，治理等效的概念中又需要考虑：底层无许可区块链发生硬分叉或整个协议本身进行重组的情况下，必须重新评估协议的法律状态
@@ -543,7 +543,7 @@ Aptos 的长期成功取决于选择在其上构建的项目。目前，其生�
 【相关链接】https://www.panewslab.com/zh/articledetails/4ynw39dm.html
 
 
-【输出人】shuang^
+【输出人】shuang
 🌟【主题】研究｜GMX——最为原生的衍生品黑马
 【核心内容简介】
 GMX: 现货+衍生品交易所，采用全局债务的形式作为交易对手方。抵押品并不是无价值币，而是由对应比例的资产组成的合成资产——GLP 来作为抵押品。
@@ -572,7 +572,7 @@ https://mp.weixin.qq.com/s/Qm3IOPYjA6HhY6A7n-tGCg
 GMX 官网：https://app.gmx.io
 https://gmxio.gitbook.io/gmx/tokenomics
 
-【输出人】shuang^
+【输出人】shuang
 【主题】DeFi 如何塑造长期主义：质押分红、燃烧通缩和税收模型
 【核心内容简介】
 目前协议向代币持有人发放收入的方法：
@@ -600,7 +600,7 @@ Key takeaways:
 【相关链接】
 https://mp.weixin.qq.com/s/Mj9LEb8T1SV2CHR-xZimqg
 
-【输出人】shuang^
+【输出人】shuang
 【主题】NFT 碎片化 vs。 NFT AMM：谁是下一个帮助 NFT 走向市场破局的发力点？ 
 【核心内容简介】
 - NFT 碎片化
@@ -624,7 +624,7 @@ https://mp.weixin.qq.com/s/Mj9LEb8T1SV2CHR-xZimqg
 https://mp.weixin.qq.com/s/-ffT0aX4RSPV35o_2n5mww
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】关于 NFT 创业生态系统，我们应该知道些什么？
 【核心内容简介】
 关于 NFT Fi 赛道的创业公司类别：
@@ -648,7 +648,7 @@ https://mp.weixin.qq.com/s/s4QAl_MyBEavRK0Gro7ubg
 
 2022-10 月第 3 周
 
-【输出人】shuang^
+【输出人】shuang
 【主题】成本和效益：思考 DAO 的法律结构
 【核心内容简介】
 评评估一个 DAO，可以分为已注册 DAO 和未注册 DAO。在一个 DAO 选择它想要的结构和该如何定位自己之前，从法律的角度来看，重要的是理解如下术语：即「功能等效」和「监管等效」。其中，治理等效的概念中又需要考虑：底层无许可区块链发生硬分叉或整个协议本身进行重组的情况下，必须重新评估协议的法律状态
@@ -759,7 +759,7 @@ DAO 的不同之处在于，它们拥有比传统组织更有吸引力的品质�
 【个人思考】本文详细的介绍了几个 Venture DAO 的案例以及对 Venture DAO 的模式进行了详细解析，如果创始团队想完全践行去中心化理念、并且让每个参与者资金风险足够小，则更适合采用去中心化募资方式 ，比如公开发行代币或者 NFT。随之而来的风险是 Venture DAO 成员质量层次不齐，不利于管理与资源整合；公开市场价格控制需要耗费大量资源，并且仍然难以控制；资金管理规模无法扩大。.如果创始团队想要建立有更加高质量人才的 DAO 社区，并且让资金容量更大，则更适合半去中心化的募资方式，比如发行非公开市场的链上代币。但是合规门槛较高，合格成员选择人群更小。
 【相关链接】 https://mp.weixin.qq.com/s/RubIVIck9Gww1hIQfnw9GQ
 
-【输出人】shuang^
+【输出人】shuang
 【主题】dYdX token 激励
 【核心内容简介】
 一、dYdX 协议包括：
@@ -783,7 +783,7 @@ https://mp.weixin.qq.com/s/dEuW4lTfzG1sutBZctH7Pg
 官网参考：https://dydx.exchange/blog/v4-milestones
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】什么是 dydx？ 读懂去中心化衍生品交易
 【核心内容简介】
 dYdX DEX：支持高杠杆率的永续交易、贷款和借款。dYdX 是开源的，任何人都可以访问，甚至可以在此基础上构建。用户的资产完全由智能合约应用程序管理、运行和存储。
@@ -808,7 +808,7 @@ https://tokenomicsdao.substack.com/p/tokenomics-101-dydx
 
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】我们为什么需要 Token ？
 【核心内容简介】
 文章首先简述了股权市场上，一级和二级的获益方式。然后对比了 token 持有者和非 token 持有者，在进行 DAO 目标的建设过程当中，投入度，目标导向和最后收益的不同。
@@ -1027,7 +1027,7 @@ https://mp.weixin.qq.com/s/Ji-3XKfquPlP7upnUWEaHQ
 【相关链接】https://mp.weixin.qq.com/s/Ji-3XKfquPlP7upnUWEaHQ
 
 
-【输出人】0xVincent
+【输出人】Vincent
 【主题】从极客运动谈起，纵览 DoraHacks 发展史
 【核心内容简介】
 1、开源运动与极客文化：
@@ -1103,7 +1103,7 @@ https://mp.weixin.qq.com/s/kt_fz0L5lbljD0QxbknLiQ
 https://mp.weixin.qq.com/s/EyxFSFv33BvlhD2lRWMp7Q
 
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】如何逆风翻盘，熊市中的 Web3 营销思路
 【核心内容简介】
 熊市提供了一个很好的营销机会，主要有以下三个原因：1）它的成本效益要高得多；2）需要过滤的噪音要少得多；3）这是一项在下一次牛市期间产生超额增长和回报的投资。
@@ -1111,7 +1111,7 @@ https://mp.weixin.qq.com/s/EyxFSFv33BvlhD2lRWMp7Q
 【个人思考】牛市用户积极性高，但所面临的营销竞争将会更大。熊市虽然预算减少，但仍有很多可借助的资源，让你有机会在下个牛市脱颖而出的道理。当拥有一个完善的方法论，并在实际过程中不断打磨和改进，是可以提高很多效率的。不过知易行难，社区的运营无论在牛市还是熊市，都是一个倾注大量时间和精力的方向。真正的运营之光，一定是那些不断总结和反思的人。
 【相关链接】https://m.techflowpost.com/article/1437
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】杨歌：金融电路与 Web3 经济模型原理 （转载及导言）
 【核心内容简介】
 区块链的效率优势已经率先在 DeFi 中得以展示，但是目前这场革命尚未到来，除了基础设施不完善、技术和平台不成熟，以及监管摩擦等问题之外，智能合约技术本身使用难度高，也是一个关键的阻碍。
@@ -1119,14 +1119,14 @@ https://mp.weixin.qq.com/s/EyxFSFv33BvlhD2lRWMp7Q
 【个人思考】本文提到的一些系统性的理论非常有意思，和我们常规思考问题的角度也非常不同，但却运用了非常形象的类比阐述了作者的观点。当然，现阶段金融电路仍然只是一个理论构想，作者尚未以专业论文的方式呈现和定义这个构想。不过核心观点总结起来是只需要几类基本的智能合约，将它们作为现金流及金融资产流处理单元，通过定制、组合和连接，就可以完成一切金融逻辑功能。
 【相关链接】https://mp.weixin.qq.com/s/yac5spRsabzvNOumxWvqUg
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】CZ 谈原则：15 个方面的 70 条忠告，涵盖公司、工作与生活
 【核心内容简介】
 文中列出的 15 个大的方面包括 1）一般原则；2）了解世界；3）决策框架；4）团队和组织；5）招聘；6）领导风格；7）目标、OKR/KPI；8）商业交易；9）被动 BD，追求低垂的果实；10）工作作风——不要浪费时间；11）沟通；12）会议；13）产品与交付；14）公关）15）休息、保持冷静和放松，这些方面！
 【个人思考】区块链版“原则”瑞达利欧。长鹏赵的 70 条原则很精炼的总结了他生活的许多方面，从个人关系、工作同事到商业交易的基本准则。和瑞达利欧的长篇大论比起来，CZ 的明显精炼了不少，也更多地侧重于特定的行业。其实从个人的角度讲，不定期的更新和思考这些问题，并作记录，本身就是个人成长的过程。 
 【相关链接】https://mp.weixin.qq.com/s/NRnxgYrhK-16uBzod0nef
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】Messari 分析师笔记：评估 NFT 当前和未来的应用场景
 【核心内容简介】Messari 的分析师根据是否具有功能性这一大因素，把现有的 NFT 分为了两类，即低功能性的图片类 （PFP ）NFT，和强功能性的 NFT ，并且探讨了应用场景和内在价值。
 核心观点包括：
@@ -1138,14 +1138,14 @@ https://mp.weixin.qq.com/s/EyxFSFv33BvlhD2lRWMp7Q
 【相关链接】https://mp.weixin.qq.com/s/NRnxgYrhK-16uBzod0nefg
 
 
-【输出人】Yue Han 
+【输出人】YueHan 
 【主题】应用链的旧叙事与新趋势——为什么说 Uniswap 转为 UniChain 是个馊主意？
 【核心内容简介】作者的核心观点认为：虽然 Uniswap 进化成 UniChain 能为用户省下不少费用，并且 Uniswap 也可以获得更多收入，但代价是伤害用户体验、安全性和可组合性。
 抛开 uniswap case 本身，问题的核心还是应用链本身。作者以 Helium 迁移到 Solana 上为例，认为未来还会有更多只是把公链当作激励层的应用链项目迁移到高性能公链上。应用链的优势是整条链上的资源都用来执行特定的任务，因此可以在性能上优化到极致，并且项目方的自主权也更大。另外应用链其实也适合游戏。Uniswap 这种低频且快速操作的单一功能也不适用于应用链。
 【个人思考】文章从反向的角度论述了为什么 uniswap 进化成 unichain 有点画蛇添足。应用链的优势是整条链上的资源都用来执行特定的任务，性能可以被优化到极致。dYdX 原本在以太坊上，后来迁移到了 StarkWare 提供的 Layer 2 上，今年 V4 会迁移到 Cosmos 生态，因为衍生品交易比较高频，而且这个过程中并不需要与其它应用交互，所以这个逻辑是成立的。「要么自成一个生态，要么操作频率/时长上突出」，否则就不适用于应用链。从这个角度讲，现阶段的 uniswap 可能不需要自己的应用链，只不过未来是否需要，还取决于 uniswap 自己未来业务的规划。
 【相关链接】https://mp.weixin.qq.com/s/3tZbIEh3pKF6J5vBuQULJg
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】健康且具激励性的 Gamefi 经济模型的思考
 【核心内容简介】
 Gamefi 的经济模型健康的发展必须满足本身能够持续引入外部资产的投入和多样化的非货币性的收益产出，其设计的关键点在于解决玩家新增需求与代币新增供给的周期矛盾，并注意货币和游戏资源的利用效率，从玩家数量变化、货币供给循环机制及赋税、奖励机制、核心资产更迭、用户画像、游戏公会、租赁化等几个因素进行考量，可以得到一个最具激励的健康发展的经济模型
@@ -1223,7 +1223,7 @@ https://mirror.xyz/0x39eC45d1445d9bDCd3A04238464b9F486C6Ac748/oI080AsFAwdBIjHRIw
 
 
 
-【输出人】abby
+【输出人】Abby
 【主题】a16z 合伙人：如何与 NFT 项目和社区建立合作关系
 【核心内容简介】
 如何建立合作关系，分以下 4 步
@@ -1234,7 +1234,7 @@ https://mirror.xyz/0x39eC45d1445d9bDCd3A04238464b9F486C6Ac748/oI080AsFAwdBIjHRIw
 【个人思考】本文像是一篇合作指南，道理和以往的相近，但加入了更具体化针对 nft 项目的方案，需要时值得再读。
 【相关链接】https://www.chaincatcher.com/article/2081123
 
-【输出人】abby
+【输出人】Abby
 【主题】Foresight Ventures: 我们如何为 Web3 社交平台设计产品模型
 【核心内容简介】Web3 社交容易遇到的问题包括：（1）在代币设计上，容易简单地激励某些行为，货币超发现象严重，（2）创作者没有持续生产优质内容的动力，（3）大量内容很难有效筛选和分发。
 针对以上问题，都提出了解决方案与心得。
@@ -1357,7 +1357,7 @@ https://mp.weixin.qq.com/s/cnDhBAApP2Uw1lQV2fVfMg
 【相关链接】https://www.ccvalue.cn/article/1404760.html
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】以太坊庞氏骗局的类型分析与识别方法
 【核心内容简介】
 一、区块链庞氏骗局生态特征研究
@@ -1382,7 +1382,7 @@ D. 转移权限庞氏骗局：只存储最后一个投资者的地址，若有�
 http://qks.cqu.edu.cn/html/cqdxzrcn/2020/11/20201111.html
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】经历了熊市考验，最好的代币模型是什么？
 【核心内容简介】
 本文将三种类型的代币，通过看市场上代表项目的价格表现指数，进行回顾式分析。
@@ -1496,7 +1496,7 @@ c.        如何商业化：当我们在思考商业化战略里的要素时，�
 https://news.marstelegram.com/20220930103938802561.html
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】起底跨界网红 GaryVee 的成长史，VeeFriends 为何能成功？
 【核心内容简介】
 讲述了 GaryVee 的成长，以及他推出的 NFT 目前在市场上的情况。VeeFriends NFT 的首个系列（Series 1）中每个 NFT 都基于 GaryVee 最初手绘的 268 个特征之一，他将自己最欣赏的人类特质赋予了这些角色，如有抱负的羊驼、负责任的蚂蚁等等。慢慢的通过不断扩大 VeeFriends 系列的生态，并向其 NFT 的持有者回馈福利，如今，VeeFriends 系列已经扩大到包括 Mini Drops、Book Games、Series 2 和 Iconics 多个系列。NFT 与消费结合，在他创办的酒店服务公司中也有 NFT 的应用，比如会员制，NFT 持有人可获得进入 FlyFish 餐厅和各种烹饪、文化和社会体验的机会。Flyfish 会员 NFT 持有者可以每月将 NFT 租赁给其他人，也可以转售；不会重复收取年费（尚未开业）
@@ -1576,7 +1576,7 @@ https://mirror.xyz/camiinthisthang.eth/qUCbEGmphCHTYQVD27G_MFCL53tr96y3A3qqXt5l3
 https://news.marsbit.co/20221008212329725525.html
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】万字长文解析 DeFi 闪电贷：无限杠杆的借贷产品
 【核心内容简介】
 本文开头介绍了 DeFi 中闪电贷的合约运作原理，然后讲到闪电贷设计中的缺陷，“重入”攻击是一个潜在缺陷。
@@ -1675,7 +1675,7 @@ https://zombit.info/amber-group-analyst-lao-bai-share-defi-derivative-space-deve
 
 2022-10-06-Thu
 
-【输出人】shuang^
+【输出人】shuang
 【主题】Tokenomics 103: Utility
 【核心内容简介】
 关于 Token 持有的参考方面
@@ -1730,7 +1730,7 @@ https://news.marsbit.co/20221006221130739446.html
 https://www.coindesk.com/layer2/2022/10/04/can-starbucks-bring-web3-into-the-mainstream/
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】代币经济学入门（Tokenomics101）：评估加密货币的基础知识
 【核心内容简介】
 代币经济学思考框架——供需关系
@@ -1820,7 +1820,7 @@ https://mp.weixin.qq.com/s/c8prBHP7AwnCTo_pjfAGFg
 https://www.huaweicloud.com/zhishi/bcs15
 
 
-【输出人】abby
+【输出人】Abby
 【主题】Bankless：熊市需要紧盯的 5 个加密叙事
 【核心内容简介】
 ( 1) Layer 2. 虽然目前对区块空间的需求不大，但这些网络提供的更多交易容量已经开始释放新的用例，并将在下一个牛市中通过允许更多用户加入链上经济而获得长期红利。
@@ -1833,7 +1833,7 @@ https://www.huaweicloud.com/zhishi/bcs15
 【相关链接】https://www.panewslab.com/zh/articledetails/xivlvceo.html
 
 
-【输出人】abby
+【输出人】Abby
 【主题】7 O'Clock Capital：一文读懂新的千亿平台赛道-Web3.0 加密钱包
 【核心内容简介】
 加密钱包按照是否自己掌握私钥可分为去中心化钱包、中心化钱包；
@@ -1848,7 +1848,7 @@ https://www.huaweicloud.com/zhishi/bcs15
 【相关链接】https://mp.weixin.qq.com/s/8FsXaD19WRH0j6KWrgSzNw
 
 
-【输出人】abby
+【输出人】Abby
 【主题】NFT 项目遇冷，熊市下如何寻求新的叙事玩法？
 【核心内容简介】
 今年 6 月起，NFT 市场交易量出现断崖式下滑。交易量的萎缩很大一部分是受到了来自外部因素的影响。例如宏观层面上流动性撤离的和 ETH  价格下跌。另一部分造成 NFT 整体交易量萎缩的原因是 NFT 玩家不再为社区的叙事买单，也并不看好社区后续的未来发展。还有项目上线直接 rug、roadmap 无限延期等。
@@ -2029,7 +2029,7 @@ Maverick 小牛协议相比 Uni v3 而言，极大的提高了 LP 的灵活性�
 【相关链接】
 https://medium.com/maverick-protocol/maverick-amm-the-revolutionary-amm-that-enables-directional-lping-unlocking-greater-capital-34427f5ac22f
 
-【输出人】abby
+【输出人】Abby
 【主题】恕我直言：现在的 Web3 品牌营销案例都是在割韭菜
 【核心内容简介】Web3 与品牌的碰撞，已经到达爆发的前夕。但大部分品牌采用了 NFT 做营销方案，却基本看不到真正能对品牌产生颠覆性正向影响的方案。其中这里存在的风险包括：（1）价格暴跌造成的投诉风险，（2）投机问题带来有毒用户，（3）品牌共建者的共识受损，（4）错失技术长期发展而带来的业务闭环。
 【个人思考】传统行业相继拥抱 web3，不可否认是个好迹象。web3 圈子太小，圈内人渴望更多圈外人愿意了解 web3，而传统行业的入局能加速这个进程。同时，这也是一个漫长且“相互拉扯”的过程，双方盼着互相成长，都需要时间洗礼。非常赞同作者破局的思考：（1）选择正确的引路人，（2）认清定位，（3）合适时机入场显得尤其重要。期待这个拥抱且一起进步的过程吧。
@@ -2115,15 +2115,6 @@ c）、空投解锁，代币开始交易
 【相关链接】
 https://www.chaincatcher.com/article/2073766
 
-【输出人】muyu
-【主题】介绍一种新的 WEB3 游戏模式 P2O：play to own
-【核心内容简介】与 Web2 的游戏相比，Axie 这种结合了 NFT 的游戏在玩家留存、增长和收入方面都取得了更大的成功。除了繁多的游戏项目，相关生态也渐渐丰富了起来。不过现在流行的 P2E 缺陷也很明显，比如通胀下的经济管理、Earn 也决定了真正的游戏玩家可能缺乏关注。
-作者透过近 50 年的游戏商业模式总结发现如今游戏开发者以牺牲游戏公平性为代价，越来越倾向于以最低的成本从玩家身上榨取到最多的价值。表现在 1、游戏内资产所有权不明；2、激励错位。
-基于以上，作者提出 play to own 模式。即玩家通过游戏和贡献而得到奖励，以代币或游戏资产的形式拥有游戏的所有权。这种模式的推动因素是 web2 游戏的激励错位。拉动因素是 Web3 游戏的价值主张，包括：1、二级市场能带来更高的流动性，使交易及收入增加；2、平衡各方利益，所有权赋予让玩家也很好的参与进来，形成天然的社群机制；3、区块链特质如开放无许可在营销上提供了更多更深的角度；4、游戏工作室的融资能力随着 Web 3 应用会显著提高。
-【个人思考】1、游戏的本质永远是获得乐趣，earn 可以有，但不能是所有；2、回顾游戏发展史，如果立足游戏本身还会发现技术的革新也是强驱动力，这一方面也许 web3 游戏需要新的想象（MR？）3、立足所有权是一个有趣的点，放大来看，拥有所有权是商品交换的前提，也是社会经济的基础，也许真正的元宇宙的出现会在确权游戏的基础之上。
-【相关链接】https://blog.defiance.capital/play-to-own-a-web3-gaming-thesis-363809cec63c
-
-
 【输出人】Pitofui
 【主题】DID 赛道梳理
 【核心内容简介】
@@ -2204,7 +2195,7 @@ https://launch.mirror.xyz/z5epJtQDpnD37YsN2B0MSwl2gXEqFSqfWWq5hKJlxhA
 https://launch.mirror.xyz/wDFf0PylbkZ70LKbxe_fmTeikvgbzsEfthcH7pCjlng
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】万字长文捕获 ZK Rollup 时代价值｜ZONFF Research
 
 【核心内容简介】
@@ -2220,7 +2211,7 @@ ZK Rollup 与 Optimistic Rollups 相比，有了更大的可扩展性和降低�
 【相关链接】https://mp.weixin.qq.com/s/5zKdS-GL8w_z4XIDOjv7FA
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】零知识证明：从入门到入土
 
 【核心内容简介】
@@ -2278,7 +2269,7 @@ HTTP （网站数据交换）、SMTP（电子邮件）和 FTP（文件传输）�
 
 
 
-【输出人】@Yue Han 
+【输出人】YueHan 
 【主题】Aave：不仅仅是借贷
 【核心内容简介】
 文章主要分三个部分，讲述了 Aave 的发展历史和未来讨论：
@@ -2292,7 +2283,7 @@ https://mp.weixin.qq.com/s/c8prBHP7AwnCTo_pjfAGFg
 
 
 
-【输出人】@Yue Han 
+【输出人】YueHan 
 【主题】从 MEV 和价值捕获的角度，谈 Uniswap 转向 UNIchain 的必然性
 【核心内容简介】
 作者认为：目前交易者在使用 Uniswap 时需要支付三项费用：（1）Swap 交易费用（可变，支付给 LP）；（2）gas 交易费用（固定，支付给 ETH 验证者）；（3）MEV（变量，支付给 ETH 验证者以及做市商）

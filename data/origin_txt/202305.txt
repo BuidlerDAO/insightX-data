@@ -107,7 +107,7 @@ https://cryptohayes.medium.com/the-denominator-68c3ad8f4ae4
 
 
 5月-第1篇 
-【输出人】@createpjf 
+【输出人】createpjf 
 【主题】DAO的高效设计 
 【核心内容简介】
 本文讲述了实现DAO的高效设计需要通过精心的组织设计来实现。有效的设计通常具有分层、专业化的特点。在设计DAO时，应注意避免剥削实体，并确保每个层级都能为系统提供价值。
@@ -125,7 +125,7 @@ DAO可以被构想为一个共识协议或平台。在这个框架内，DAO的�
 
 
 5月-第2篇
-【输出人】@createpjf
+【输出人】createpjf
 【主题】From UGC to UGP: Consumer Brands & Co-Creation
 【核心内容简介】这篇文章讨论了消费品品牌在共创过程中的演变，从用户生成内容（UGC）到用户生成产品（UGP），以及Web3技术如何促进这种转变。
 
@@ -146,7 +146,7 @@ Web3 共创的三个类别：
 
 
 5月-第3篇 
-【输出人】@createpjf 
+【输出人】createpjf 
 【主题】从 Lens Protocol 出发理解 Web3 社交媒体 
 【核心内容简介】
 作者提到了Linkin Park乐队如何在Facebook上累积了大量的粉丝，但是随着Facebook的算法变化，乐队无法免费接触到所有的粉丝，必须支付大量的费用。这引出了Web3社交网络的出现，与Web2社交网络不同，Web3社交网络的价值主要归用户和内容贡献者所有，而不是社交媒体平台。

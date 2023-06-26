@@ -1,6 +1,6 @@
 2022-12月第4周
 
-【输出人】abby
+【输出人】Abby
 【主题】a16z 合伙人：边玩边赚模式让更多普通人进入加密世界
 【核心内容简介】
 1. 推出新的 NFTs 必须在某些方面与实际的努力相挂钩，这能从根本上防止恶性通胀（经验值代币化）。
@@ -127,7 +127,7 @@ P2B2C：瘦应用的运行成本较低，因为它们将许多成本推给了协
 【相关链接】https://web3caff.com/zh/archives/43194
 
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】2023 我们身在何处？从五大核心赛道演变逻辑看加密投资趋势
 【核心内容简介】
 公链格局部分：以太坊，王者地位。然而网络的拥堵高了交易成本，阻碍被大规模采用的可能性，因此公链发展的核心问题就是扩容。公链发展的历史其实就是一部解决以太坊扩容问题的发展史
@@ -199,7 +199,7 @@ https://www.chainfeeds.xyz/feed/detail/14f57964-cbef-404f-80ac-5662e5a85e3a
 https://insights.glassnode.com/chinese/the-week-onchain-week-50-2022-chinese/
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Coinbase：2023 年 Crypto 市场展望
 【核心内容简介】
 Coinbase 认为 2023 年将会有三个主题：
@@ -214,7 +214,7 @@ Coinbase 认为 2023 年将会有三个主题：
 完整报告：https://coinbase.bynder.com/m/4888c95272561d10/original/2023-Crypto-Market-Outlook.pdf
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Curve 流动性“包装”之争
 【核心内容简介】
 CRV 的流动性包装使得持有者可以收取费用或贿赂，并且不需要锁定 4 年，还有退出头寸的机会，本文介绍了三种 CRV 流动性包装：
@@ -244,7 +244,7 @@ EIP-4361，「 以太坊登录 」，被Vitalik称为以太坊2022五大成就�
 【相关链接】https://mp.weixin.qq.com/s/VVnBu24_2MH6xlmNopJW5A
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Pantera：去信任系统的必要性
 【核心内容简介】
 FTX 破产后，Coinbase、Kraken、Upbit、Bitstamp 等受监管、透明和经过审计的交易所的市场份额急剧增加，且趋势仍在延续，FTX 旗下受监管的交易所也仍受保护。而加密资产监管的状态与互联网其他部分相反，当中存在着监管黑洞，与加密货币的需求存在重大差距。
@@ -300,7 +300,7 @@ nostr 是一个最简化的协议，它能够一劳永逸地创建一个抗审�
 【相关链接】https://www.defidaonews.com/article/6794590
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】NFT 市场的未来之路
 【核心内容简介】
 本文通过比较主要利益相关者来审视当前格局，讨论 NFT 市场的迭代趋势。
@@ -315,7 +315,7 @@ NFT 市场的未来模型：垂直化市场、启动项目专属市场的基础�
 https://bixinventures.medium.com/the-road-ahead-for-the-nft-marketplaces-12b139a545a6
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Optimism 的主网 Bedrock 升级
 【核心内容简介】
 Rollup 方案目前存在一些不可忽略的问题，包括 EVM 的兼容性、较高的网络交易费用和单一定序器的中心化问题。Optimism 的 Bedrock 升级会缩减存款时间、削减向 L1 提交数据的成本、精简与 Geth 的差异和支持多样化的替代证明系统。为此，Optimism 开发了全新的多轮交互式欺诈证明系统 Cannon。Bedrock 升级提出了以太坊等效性，并将建立一个多客户端生态系统。尽管目前的重心在 Bedrock 升级，但 Optimism 的最终愿景是旨在利用 OP Stack 实现可互操作的“超级链”生态。
@@ -350,21 +350,6 @@ Optimism 本次的 Bedrock 升级考虑到了无缝迁移的问题，这使得�
 
 【相关链接】
 https://www.chaincatcher.com/article/2084854
-
-
-【输出人】李偏偏
-【主题】为什么需要代币化？
-【核心内容简介】
-Weiwu Zhang 是 Smart Token Labs 的创始人兼 CTO，他曾担任 CBA（澳大利亚最大银行）的区块链架构师，作为一个技术专家，他这篇小短文介绍了为什么需要代币化：
-1、limitless integration and frictionless markets.代币化将克服集成的技术限制，以银行系统为例子；代币化消除市场创新的摩擦阻碍，以自己的汽车代币为例子；
-2、代币化将渗透到实体经济是不少例子可用的，文中还举了多个例子，未来比我们想象的要近得多。
-【个人思考】
-1、技术视角考虑是一种训练：技术视角的解读一般都是简单直接的，可以反复锻炼使用的，文章的原文值得多读；
-2、代币化和流动性等特征相关性非常强，众安银行在香港新政后快速宣布自己的积分代币化，这是响应热度还是真觉得代币化有用，我倾向于第一种；
-3、为什么需要代币化的这个问题是值得经常问的问题，尤其是坚持新人视角，为什么要代币化，现在这个（技术）给我带来的核心价值是什么，如果这个问题还需要被解释，说明用例不够有价值。
-
-【相关链接】
-https://www.techflowpost.com/article/1783
 
 
 
@@ -429,7 +414,7 @@ https://m.techflowpost.com/article/1808
 https://www.theblockbeats.info/news/32911
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】The Beacon 如何建立以游戏为中心的 GameFi
 【核心内容简介】
 上个周期的 GameFi 很难实现正向的外部性收入，而陷入旁氏经济的困境，而 The Beacon 游戏把好玩放在了首位，支持多种游戏模式，有一定的游戏挑战性和社交互动性，真正的以 Game 为目的。The Beacon 的免费玩模式提供了很低的进入门槛，让任何人都可以任玩，而付费角色的玩家们则有一些差异化的设计。The Beacon 的宠物机制和作为 Treasure DAO 生态游戏的可互操作性也值得期待。The Beacon 目前使用 MAGIC 和 BCN 作为游戏内代币，尚未推出的经济机制设计是否合理将决定其可以抵达的高度。The Beacon 完成了可玩原型的启动，主要是单人 PvE 模式，后续将会有宠物生成阶段、ALPHA 发布、多人合作 PvE 等等。
@@ -440,7 +425,7 @@ https://foresightnews.pro/article/detail/21488
 
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Glassnode 2022年链上数据报告
 【核心内容简介】
 本文探索了 2022 年比特币、以太坊以及稳定币市场的状态。
@@ -583,7 +568,7 @@ What matters most?  Asymmetry.
 https://www.oaktreecapital.com/insights/memo/what-really-matters
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】2022年回顾：公链突破不可能三角的努力
 【核心内容简介】
 公链的不可能三角问题（可扩展性、安全性与去中心化）一直是制约公链技术发展的阻碍，进而影响到链上应用的性能。
@@ -596,7 +581,7 @@ https://www.oaktreecapital.com/insights/memo/what-really-matters
 https://foresightnews.pro/article/detail/21255
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】 Consensys 报告：跨链互操作性是 DeFi 的未来
 【核心内容简介】
 跨链互操作性可以使 DeFi 用户与不同独立区块链上的 DApp 无缝交互，用户们不必分割他们的流动资金，可以自由地利用各个独立链的优势，摆脱单个链的各种限制。文中介绍了跨链互操作性的三种形式。
@@ -610,7 +595,7 @@ DeFi 目前已经能达到独立链上的无缝交互，各个独立链就像是
 https://news.marsbit.co/20221213180611247596.html
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】加密保险的现状
 【核心内容简介】
 2020年起，DeFi 被盗资金的数量只增不减，然而保险行业却没有什么增长，本文介绍了加密保险的现状，清晰地介绍了保险业务的流程和参与者。
@@ -656,7 +641,7 @@ Arthur Hayes近期几篇文章分析市场说的还都挺到位的。本文指�
 【相关链接】https://news.marsbit.co/20221210163718963353.html
 
 
-【输出人】shuang^
+【输出人】shuang
  【主题】IOSG Weekly Brief：Web3 Games 背后的资本和人才流向
 
 【核心内容简介】
@@ -681,7 +666,7 @@ Arthur Hayes近期几篇文章分析市场说的还都挺到位的。本文指�
 https://web3caff.com/zh/archives/44387
 
 
-【输出人】shuang^
+【输出人】shuang
  【主题】那些冷门又有趣的 NFT 协议
 【核心内容简介】
 本文介绍了有关NFT的一些冷门但是有趣的协议。
@@ -709,7 +694,7 @@ EIP2981提供了查询的函数，项目方设置税率，用户输入任意金�
 【相关链接】
 https://web3caff.com/zh/archives/44500
 
-【输出人】shuang^
+【输出人】shuang
  【主题】NFT 101丨NFT 的协议标准有哪些？
 【核心内容简介】
 本文整理了NFT的主流协议，并解释了每个提案的内容情况。
@@ -740,7 +725,7 @@ https://web3caff.com/zh/archives/44500
 
 
 
-【输出人】shuang^
+【输出人】shuang
  【主题】无尽的媒体：ChatGPT 能够取代人类成为内容创造者吗？
 【核心内容简介】
 本文以ChatGPT最近被广而用之之后，写下了AI对于内容制作的影响和意义。
@@ -763,7 +748,7 @@ https://mp.weixin.qq.com/s/3n6rBvhuOmC_39m79oNf_A
 
 
 
-【输出人】shuang^
+【输出人】shuang
  【主题】百倍新蓝筹的从0到1之路丨Killabears案例研究
 【核心内容简介】
 本文介绍了一个新蓝筹的NFT项目研究：Killabears。
@@ -889,24 +874,6 @@ Web3社交生态可以分为以下几个部分：基础设施、中间件、应�
 原文非常详细的分析了Web3社交赛道，从核心到生态等方方面面。目前普遍的共识是，Web3社交将基于统一的链上数据、链上身份，所以连接基础设施和应用之间的中间协议是当前赛道的热点，比如Lens、CyberConnect、RSS3等。而原生的Web3社交应用想要发展到Web2这样大规模采用还有的等。
 【相关链接】https://news.marsbit.co/20221207145024200947.html
 
-
-【输出人】李偏偏
-【主题】The Beacon 找到了链游突破的途径
-【核心内容简介】
-作为一个构建在 Arbitrum 上、上线仅一周的链游，Beacon 却从 Arbitrum 出圈，将热度自 L2 扩散到了主网玩家群体中。
-游戏处于启动早期，一方面，虽然开放玩法有限但 GAME 属性与既往链游有较大提升，另一方面，由 TreasureDAO 支持推出，既往web3项目经验丰富；
-【个人思考】
-一线的项目方们已经开始找到合适的定位与方式来解决链游较长的开发周期下的运营难题，阶段性激励玩家参与，通过可参与的产品迭代来保持项目热度并维系社区。
-任何一家有规模的游戏大厂都在关注链游的，无非就是入圈程度的区别（研究-投资-架构-开发-运营），问题不是入局时间早晚，关键是在重点问题的解法迭代。
-
-【相关链接】
-https://www.theblockbeats.info/news/32771
-https://www.chaincatcher.com/article/2083940
-https://www.chaincatcher.com/article/2083938
-https://chainfeeds.xyz/feed/detail/4656b4d6-7853-4a62-9e9c-9ceeaebf4f1a
-https://twitter.com/g2hit5814/status/1598888556956897281?s=21
-https://twitter.com/alpha_pls/status/1599022733991366656?s=20&t=1XwBM6skMlOeOcGh-x_yJw
-https://www.theblockbeats.info/news/32772
 
 
 【输出人】@猫老大
@@ -1145,7 +1112,7 @@ Curve 報價是絕對可以成交，因為是根據協議資產的流動性進�
 
 https://research.mintventures.fund/2022/12/01/ep08-curve%e5%86%8d%e6%88%90%e8%bf%91%e6%9c%9f%e7%83%ad%e7%82%b9%ef%bc%9acrv%e5%81%9a%e7%a9%ba%e5%a4%a7%e6%88%98%e4%b8%8a%e6%bc%94%ef%bc%8ccrvusd%e7%99%bd%e7%9a%ae%e4%b9%a6%e5%8f%91%e5%b8%83/
 
-【输出人】shuang^
+【输出人】shuang
  【主题】DappOS——将公链虚拟化的操作系统
 【核心内容简介】
 本文介绍了dappOS项目，其提出的给开发者更便捷的处理多链的统一运营的具体方法。
@@ -1168,7 +1135,7 @@ https://research.mintventures.fund/2022/12/01/ep08-curve%e5%86%8d%e6%88%90%e8%bf
 
 
 
-【输出人】shuang^
+【输出人】shuang
  【主题】以太坊标准——EIP712
 【核心内容简介】
 文章首先介绍了EIP协议的概念，是以太坊社区提供信息或描述以太坊或其流程或环境的新功能的设计文档。
@@ -1207,7 +1174,7 @@ App-chain的暴增趋势表明在向类似应用自治的Web2发展，但这并�
 
 2022-12月第1周
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】介绍 Permit2 和通用路由器
 【核心内容简介】
 uniswap官方发布最新2个协议：Permit2和Universal Router，前者通过建立全网通用的授权管理合约，从而在协议应用层适配的情况下可以大幅度降低用户的多余授权操作，后者则是任意资产（ft、nft）之间的兑换协议。全文详细解释了以太坊上最大的dex平台是如何构思并优化当前的swap协议，对用户而言的痛点以及他们为此的解决措施
@@ -1298,7 +1265,7 @@ Social：社交领域是围绕数据可组合行构建的「基础设施-中间�
 【相关链接】https://www.ccvalue.cn/article/1404228.html
 
 
-【输出人】@Frank
+【输出人】Frank
 【主题】DeFi的创新之处到底在哪里？
 【核心内容简介】
 “计算与认知”的框架也可以投射到经济或者金融活动上——“计算过程”便指金融或者经济过程中“可计算”的那一部分；剩下的是“不可计算”、属于“认知”的部分——投射到金融领域其实就是“信用”。会计学、经济、金融学中最重要的“资产”和“负债”这两个概念，恰恰一半是“计算”，一半是“认知”。“信用”与“负债”都是认知领域的概念，但是“信用”可以被量化，“负债”是债权人与债务人之间达成的一种纯认知层面的“共识”。所以理想的金融体系，应该是“计算性金融”和“信用性金融”分离的体系。一个能让你精确看到“信用”作为输入参数、计算、并产生结果的过程。而在计算体系当中看不到“负债”，在一瞬间被人的“认知”衔接——这样的金融体系才是清晰的。
@@ -1309,7 +1276,7 @@ FTX 事件让我们反思，如何理解 CeFi 和 DeFi。DeFi 能避免内部交
 https://wenli.substack.com/p/defi
 
 
-【输出人】@Frank
+【输出人】Frank
 【主题】FTX事件中有多少被你忽视了的“第一性原理”
 【核心内容简介】
 流动性危机的第一性原理：无论币圈还是传统行业，金融逻辑并不会变化——只要是中心化机构，就会有资产负债表，只要有资产负债表，就可能由于“资产”低于“负债”引发流动性危机。而币圈唯一的特别之处，就是经常把自家“股票”当资产，“流动性危机”的定义不是“短时间无法变现”，而是“资产是空气”，或者是曾经被赋予极高“梦想和承诺”的空气。

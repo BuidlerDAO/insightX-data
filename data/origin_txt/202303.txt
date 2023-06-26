@@ -18,7 +18,7 @@ https://www.theblockbeats.info/news/34594
 
 
 3月第1篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】深入 Thala Protocol：首个构建在Aptos原生稳定币之上的DeFi协议
 【核心内容简介】
 Aptos 在市场上的表现给人留下了深刻印象，但 Aptos 链的实际发展情况略显冷清。
@@ -32,7 +32,7 @@ MOD + Swap + Launchpad 的组合，事实上是价值锚点 + 使用场景/流�
 
 
 3月第2篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】ABM 代币经济拟合模型介绍
 【核心内容简介】
 对 Filecoin、Chainlink、Graph 和 Helium 进行了建模并分享了几个早期发现。
@@ -90,7 +90,7 @@ https://mp.weixin.qq.com/s/iyfFYNwvEqD0P0q8dAL1hw
 
 
 3月-第1篇
-【输出人】TX
+【输出人】TonyTX
 【主题】The Type 1 ZK-EVM
 【核心内容简介】Type 1 ZK-EVM是以太坊最高级别适配性，开发者可以完全无缝迁移并且所有L1 dapp/ tool/ infra都可以直接使用。其他的type 2-4均在牺牲了适配性的情况下提升了证明速度并降低了开发难度。Type 1 ZK-EVM的主要竞争对手为 Type 2，其余的Type 3 和4如Zksync与starkware本质已经变成ZK-VM。Type 2 更加重视性能而改变 gas fee和hash function，可能会导致某些合约不再安全或使用hash的合约不work
 【个人思考】Type 1 ZK-EVM是以太坊扩容真正的明珠。与EVM最高级别的适配性，意味着开发者真正可以write once, deploy anywhere，并且附带生成的证明。当然，因为其开发的高难度，目前Taiko进度均落后于其他ZK-EVM。同时，如此高的等效性是否真的有必要，还是像scroll一样牺牲一小部分兼容而获得技术路线更快的推进与实现，仍然有待考量。当然，Taiko团队之前Loopring成功的创业经历给投资人一株定心丸。不缺钱，技术强，不如一步到位。
@@ -176,7 +176,7 @@ https://mp.weixin.qq.com/s/AlhoykRRVDyxzeUEHgD2dw
 【相关链接】https://mp.weixin.qq.com/s/WC9DYNj08PLpRRajkkd4SA
 
 3月第3篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Gnosis 创始人：L2 的局限性以及另一种扩容方法
 【核心内容简介】
 L2 是很临时的空间，所以长期来看存在根本问题。
@@ -196,7 +196,7 @@ https://www.techflowpost.com/article/2181
 
 
 3月第2篇
-【输出人】TX
+【输出人】TonyTX
 【主题】相比 zkRollup，Layer0 赛道的 zkOmnichain 更值得关注
 【核心内容简介】多链是加密的未来，跨链桥是多链的起点。
 应用实现多链的几种方式：1）经过一条居间共识协议与起始链、目标链进行互操作，如cosmos, polka，缺点是节点成本高+去中心化依赖节点数量；2）通过Op机制完成与其余各链的互操作，如op+fraud proof的Nomad，和op oracle的layer zero，缺点是需要信任假设；3）基于zk的全链互操作协议zkOmnichain与其余各链进行互操作，如polymer, succinct；4）app部署到一条新的公链再与其余各条链进行互操作
@@ -317,7 +317,7 @@ https://mp.weixin.qq.com/s/SnY6DaAn3sdM2yWgR5zAyA
 【相关链接】https://www.defidaonews.com/article/6807138
 
 3月第4篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Omnichain Token：全链时代的新 Token 标准
 【核心内容简介】
 随着公链多样化，资产跨链成为了用户的刚性需求，目前跨链资产标准不统一，流动性割裂，且存在各种安全问题。
@@ -376,7 +376,7 @@ https://mp.weixin.qq.com/s/SnY6DaAn3sdM2yWgR5zAyA
 
 
 3月第5篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Curve：头部流动性市场的业务现状、生态发展、护城河及估值对比
 【核心内容简介】
 第一部分，阐述了 Curve 的研究价值：市场规模最大、竞争最激烈的赛道中的一线阵营；设计了 ve 模型，尝试实现业务协调和参与方协调；形成了协议生态，搭建起金融乐高；多链布局，且各链业务量均处于靠前位置；项目上线起就积极实践，捕获代币价值。
@@ -390,7 +390,7 @@ https://mp.weixin.qq.com/s/SnY6DaAn3sdM2yWgR5zAyA
 https://foresightnews.pro/article/detail/27319
 
 3月第2篇
-【输出人】@Nicole
+【输出人】Nicole
 【主题】Delphi Digital：2023 年 GameFi 将迎来“大重塑”
 【核心内容简介】
 文章主要就目前Gamefi行业面临的困境、取得的进步与2023年GameFi的走势进行总结。
@@ -426,7 +426,7 @@ https://www.chaincatcher.com/article/2088931
 
 
 3月第4篇
-【输出人】@Nicole
+【输出人】Nicole
 【主题】重温聚合理论
 【核心内容简介】
 这篇文章探讨了聚合理论，即将多个产品或服务组合在一起，以提供更好的用户体验和价值。作者以LI.FI为例，说明了聚合器的优点，如节省时间和资本，以及如何从新奇的工具发展成为方便的工具。文章还讨论了在熊市中获取用户的成本飙升，为其他公司（B2B）构建业务可能足以复合增长以维持生存并在牛市中占据主导地位，以及Token是一个临时的壕沟和长期的负债的问题。
@@ -439,7 +439,7 @@ web 3的代币在价值捕获的研究中，可以发现普通人并不关心使
 https://www.decentralised.co/p/revisiting-aggregation-theory
 
 3月第6篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】去中心化科学生态：如何利用DAO建立更好的科学研究经济？
 【核心内容简介】
 选择 DeSci 的原因是为打破科学生命周期：当前的科学研究经济以牺牲透明度和创新为代价来激励声望获取，存在研究人员与研究机构、审稿人和发表商的多重博弈，存在集中决策和资金、方法论和数据透明度差、不受激励的审查和严格控制的发表三大问题。
@@ -452,7 +452,7 @@ Web3 的影响逐渐向其他行业辐射，DeSci 又同时处于两个宏观趋
 https://www.panewslab.com/zh/articledetails/qr213zng1ngz.html
 
 3月第7篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】如何建立市场护城河？重新审视 Web3 时代的聚合理论
 【核心内容简介】
 Web2 中，聚合器获益于崩溃的分销成本；Web3 中，聚合器依赖于验证和信任成本崩溃。笔者一年前预计，垄断将由扩张速度足够快的公司以聚合器接口的形式建立起来，引用了Nansen、Gem 和 Zerion 作为例子，但是今天，相对垄断还不存在，相反面临着这一年来出现的新竞争，这是新兴行业的理想特征。
@@ -465,7 +465,7 @@ Web2 中，聚合器获益于崩溃的分销成本；Web3 中，聚合器依赖�
 https://foresightnews.pro/article/detail/27948
 
 3月第8篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】浅析 MEV 的发展现状及趋势
 【核心内容简介】
 MEV，即 Maximum Extractable Value，是指通过在区块内重新排序、插入和审查交易从用户那里提取的价值，由 Searcher、Builder、Validator 三种角色瓜分：Searcher 通过寻找可提取价值，将交易捆绑在一起提供给 Builder；由 Builder 挑选最有利可图的打包成 Full Block，通过 Relay 最终发送给 Validator；Relay 负责连接 Builder 和 Proposer，验证 Block 的有效性和出价，把有效的最高出价提交给 Proposer，实际不参与 MEV 利润瓜分，属于中立的基础设施；Validator 则是 ETH2.0 中的 Miner，负责向网络提议 Block，并将 Block 添加到链中，既可以获得共识奖励（区块奖励），也可以获得执行奖励（MEV + Tips）
@@ -504,7 +504,7 @@ FVM将是“原生”Filecoin虚拟机，开发工具不如 FEVM 体系成熟具
 【相关链接】https://www.panewslab.com/zh/articledetails/w49yt0gw.html
 
 3月-第4篇
-【输出人】TX
+【输出人】TonyTX
 【主题】流支付：区块链赋能的支付新范式
 【核心内容简介】流支付定义为像水流一样涓涓不断地以设定的转账速率从支付人流向收款人，应用场景包括1）工资发放，公司可以缓慢匀速发放工资，缓解现金流压力；2）订阅、计时服务，实现使用多少就付多少费用，更精准、公平；3）代币解锁发放，不会对二级市场造成巨大冲击。
 目前玩家有Sablier、Superfluid、Llama pay。Sablier最早功能最简单，构建了概念，但产品使用复杂、昂贵。Superfluid功能较多，技术独特，是目前产品最完善、有好的项目，已有大量用户数据。Llama pay只针对工资发放场景，费用较低，并且引入独特的负债机制。
@@ -514,7 +514,7 @@ FVM将是“原生”Filecoin虚拟机，开发工具不如 FEVM 体系成熟具
 
 
 3月第9篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Synthetix 现状梳理
 【核心内容简介】
 现货交易萎靡，永续合约交易量：在 Optimism 上的永续合约交易是 Synthetix 最主要的收入来源，而可能因为 Synthetix 现货交易的手续费高于其他平台，原子交易较少使用，与去年年底和 USDC 脱锚期间的表现截然相反。
@@ -527,7 +527,7 @@ https://www.theblockbeats.info/news/35833
 
 
 3月第10篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】如何通过 ZKP 构建 Web3 产品
 【核心内容简介】
 ZKP 正在解决可扩展性和隐私这两个主要瓶颈。
@@ -545,7 +545,7 @@ ZK 加速：通常需要软件优化和专用硬件。证明即服务模型可�
 https://foresightnews.pro/article/detail/28869
 
 3月第11篇
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】探究 DeFi 和 GameFi 中的代币经济模型发展方向
 【核心内容简介】
 DeFi：从 Maker、Terra 和 Axie Infinity 的例子看，现存双代币模型的运作机制，一旦超过临界点，恶性通胀就会出现并摧毁整个系统。这些模型更多是不可持续的，根据手上现有的资金去调整之后的代币分配，与金融领域的未来收入折现是完全相反的价值生成循环。
@@ -711,7 +711,7 @@ DVT技术通过将验证任务分配给多个节点来提高验证效率和可�
 https://www.techflowpost.com/article/2028
 
 3月第5篇
-【输出人】TX
+【输出人】TonyTX
 【主题】Rollups-as-a-Service（RaaS）指南
 【核心内容简介】infra终局可能是未来有数百万个特定于应用程序的模块化链，通过RAAS搭建。未来部署新链应该像创建新网页或app一样轻松。
 目前头部的RAAS项目包括老牌L0 Cosmos, substrate；上轮叙事的L1 Polygon和Avalanche；L2叙事的OP、AR、Starkware、ZKsync；其他针对EVM、Move等的专用SDK。
@@ -745,7 +745,7 @@ rollup由链下数据库和链上桥组成，桥决定链下数据库的接受�
 
 
 3月-第6篇
-【输出人】TX
+【输出人】TonyTX
 【主题】公链赛道新兴主力军，Zebec Chain引发支付方式新转变
 【核心内容简介】Zebec Protocol是基于Solana的、主打流支付概念的Web3支付协议。用户可以按照自己设定的时间、金额，连续支付给其他账户，而不是一次性的进行支付，并可实现实时、无摩擦和连续的支付流。
 Zebec Chain是Zebec Protocol发布的基于Zk-Rollup技术方案，且由分布式的Zepoch节点运行的流支付公链。
@@ -756,7 +756,7 @@ Zebec获得VISA等Web2巨头的支持，与VISA等行业巨头建立起紧密的
 
 
 3月-第7篇
-【输出人】TX
+【输出人】TonyTX
 【主题】赵长鹏回应 CFTC 指控全文
 【核心内容简介】CFTC指控币安故意逃避联邦法律，经营“非法”数字资产衍生品交易所，包括拥有和控制交易所实体的不明确，员工和美国客户使用signal聊天，未能实施有效的反洗钱计划等。
 币安从几个点反驳CFTC的指控。
@@ -805,7 +805,7 @@ DEX市值可以作为每个公链生态的价值中枢，从而作为衡量其�
 【相关链接】https://pima09.substack.com/p/4ca
 
 3月第5篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】创建多人游戏：解锁参与式媒体
 【核心内容简介】文章探讨了在构建参与式媒体生态系统中，以及知识管理的重要性。作者指出，目前的中心化媒体系统不能提供与用户相关的内容。创建参与式媒体涉及让用户创建和分享自己的内容，这可以通过使用能够创建分散网络的区块链技术实现。文章还讨论了创建一个致力于内容创作和分享的社区的重要性。
 创建参与式媒体生态系统需要从传统的中心化媒体系统转向允许用户创建和分享内容的分散系统的思维转变，此时，建立一个致力于内容创作和分享的社区（DAO）就会显得非常重要。
@@ -813,7 +813,7 @@ DEX市值可以作为每个公链生态的价值中枢，从而作为衡量其�
 【相关链接】 https://medium.com/1kxnetwork/multiplayer-creation-unlocking-participatory-media-e0677cbe831c
 
 3月-第8篇
-【输出人】TX
+【输出人】TonyTX
 【主题】简述美国 2022 年的 Web3 金融监管框架
 【核心内容简介】美国由五大监管机构针对加密货币不同的属性，进行各自管辖范围内的全方位监管。
 SEC将大多数项目发行的代币定义为证券。判断代币是否为证券需要通过Howey Test，评判标准包括 1）Investment of Money，传统资金投资外，投资者通过完成 Bounty Program 、Air Drop 等方式而获得的代币奖励同样视为investment；2）Common Enterprise, 如建设一条 Layer One 的公链，属于投资者与发行方共同的事业，目前只有BTC不属于common enterprise；3）Reasonable Expectation of Profits Derived from Efforts of Others，包括投资人依赖项目方或第三方的管理、运营，自己不参与；持有代币享受增值、分红等。
@@ -823,7 +823,7 @@ CFTC将代币是为商品并要求提供交易的平台接受监管，这也是�
 
 
 3月-第9篇
-【输出人】TX
+【输出人】TonyTX
 【主题】对话 NFTScan，探寻 NFT 赛道的发展趋势
 【核心内容简介】NFTScan是一个针对NFT底层数据的基础设施服务商。产品包括：1）浏览器NFTScan是业务中面向C端的工具之一，主要是用于查询NFT相关的数据；2）开发者平台，主要是为成熟的区块链公司提供专业的多链NFT API数据服务；3）面向B端的NFTScan as a Service，为新L2量身定制一个整套基础设施。
 目前客户以华人为主，服务基本覆盖了所有的华人区块链社区的加密项目。今年开始开拓海外市场。
@@ -858,7 +858,7 @@ lsdETH这一生息资产规模的扩大。故未来除了可能会出现越来�
 https://ld-capital.medium.com/trend-research-by-ld-capital-lsd%E8%B5%9B%E9%81%93%E9%95%BF%E5%9D%A1%E5%8E%9A%E9%9B%AA-%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%8E%E9%AB%98%E5%A2%9E%E9%80%9F%E8%B4%AF%E7%A9%BF%E6%95%B4%E5%B9%B4-7f14a5355540
 
 3月-第10篇
-【输出人】TX
+【输出人】TonyTX
 【主题】Web3 钱包的下一站：为什么我们看好无助记词钱包赛道
 【核心内容简介】以太坊的账户分为EOA和合约两种类型。
 自托管数字钱包虽然安全，但助记词和私钥复杂。
@@ -869,7 +869,7 @@ https://ld-capital.medium.com/trend-research-by-ld-capital-lsd%E8%B5%9B%E9%81%93
 【相关链接】https://www.chaincatcher.com/article/2089979
 
 3月-第11篇
-【输出人】TX
+【输出人】TonyTX
 【主题】解密 Etherscan：年赚千万美元，区块链浏览器背后的生意经
 【核心内容简介】Etherscan帮助用户浏览以太坊区块链的数据，用户可以分析以太坊区块链上的区块交易，包括链上调查可疑的“Rug”行为到监视大规模资金流动的交易者。其每月有 8000 万次访问量，是加密货币领域中最受欢迎和广泛使用的工具之一，已扩展到 18 个以上的区块链
 Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：提供主要为 B2B 的 SaaS 服务，如构建区块浏览器；2）API：提供API以访问其数据，价格从免费到每月 399 美元不等，并有未公开的企业定价；3）广告：Etherscan 有 5 种类型的广告；4）链上服务：开发其他的链上工具，包括钱包对钱包的消息传递、代币授权撤销工具等；5）捐赠：允许用户捐款支持其开发和维护。Etherscan 有 29 名员工，主要为工程师，年均花费约为125-215w美元，由此得出Etherscan毛利约在190-2024w美元。
@@ -878,7 +878,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 
 
 3月-第12篇
-【输出人】TX
+【输出人】TonyTX
 【主题】对话 EthStorage，用 Layer2 思路构建以太坊的存储网络
 【核心内容简介】EthStorage两个目标：1）利用以太坊的安全属性和已经建立开放生态系统；2）利用以太坊的Rollup技术和Layer2技术降低以太坊的存储成本，约在千分之一，并提高现有的存储能力到PB级别以上。
 其他Rollup目前解决以太坊的计算和交易问题，在TPS性能上做扩容，属于对ETH计算层的扩容，而EthStorage是对ETH存储层的扩容，未来可以通过智能合约验证所有的存储数据，并存储动态前端、视频、音乐等。
@@ -887,7 +887,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 
 
 3月第6篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】Flashbots 是不是一项糟糕的业务？房间里浮华的大象
 【核心内容简介】作者认为，虽然MEV是一个真正的问题，但Flashbots并不是解决方案。该组织对MEV的处理方式是集中和不透明的，可能会导致权力进一步集中在少数大型参与者手中。相反，作者建议通过分散化的协议和治理机制来解决MEV问题，这些机制赋予用户权力，并阻止审查和勾结行为。
 文章分为以下几个部分：
@@ -900,7 +900,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 【相关链接】 https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy?utm_source=post-email-title&publication_id=847068&post_id=111239383&isFreemail=true&utm_medium=email
 
 3月第7篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】区块链游戏的厚薄结构设计
 【核心内容简介】作者在本文中讨论了三种不同的区块链游戏架构设计的方法：厚区块链，瘦游戏客户端; 通过混合结构达到的瘦区块链，厚游戏客户端; 以及通过分层达到的瘦区块链，厚游戏客户端。
 1. 在厚区块链，瘦游戏客户端的架构下，游戏逻辑的处理完全在区块链客户端软件内部完成。所有动作都存储在链上，因此此类游戏是完全去中心化的。游戏客户端将玩家的动作（动作）发送到链上，但底层机制在链的逻辑中是固定的，因此每个人都会同意。UI本质上只是一个钱包。这类架构适合游戏逻辑比较简单，对画面/渲染要求不太高的游戏。 
@@ -912,7 +912,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 【相关链接】 https://edward-thomson.medium.com/the-thick-and-thin-of-blockhain-gaming-architectures-a51795156420
 
 3月第8篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】帐户抽象：Web3 采用的游戏规则改变者
 【核心内容简介】本文讨论了区块链技术中“账户抽象”这一概念，以及它如何成为一种可能会改变区块链游戏规则的因素。目前，在以太坊等EVM系统中，有效的交易必须严格遵守一套规则，这限制了账户功能和灵活性。然而，通过账户抽象(签名者抽象/费用提取/Nonce抽象)，可以为账户所有者、钱包和 dApp 提供灵活地决定如何签署和接受交易，以及交易费用的来源。正将允许设计者进行更复杂的智能合约操作设计，以及未来更大规模的可扩展性。不仅如此，在自托管，加密支付，以及面向用户体量的去中心化应用等领域，可以达到更用户友好的操作，帮助面向对加密货币新手的推广。
 
@@ -922,7 +922,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 
 
 3月第9篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】关于空投
 【核心内容简介】本文讨论了加密空投（airdrops）在加密货币领域中的作用和意义。作者认为，加密空投是一种让人们了解新加密货币项目的有效方式，因为它们可以鼓励用户参与和试用项目。从一台机器登录多个帐户获得代币分配，到检查用于登录的浏览器是否是唯一，激励项目向原生用户的邻居、朋友和家人之间扩散，吸引更多用户参与。然而，如果将空投定义为获取用户需要付出代价，那么空投激励也可能导致一些问题。例如一些用户通过女巫攻击将空投farming（撸空头）扩展到了工业级别的规模。那么项目方希望通过空投获取用户的目的就会落空，大规模的抛压也使得项目价值可能被低估。然而，项目方其实也会默许一些空投farmer，加密初创公司最好的营销方式是让很多人在短时间内变得富有。
 所以，作者建议项目方在进行空投时需要考虑清楚目的和策略，将空投作为用户因使用产品而产生的成本由他们最终收到的代币所产生的回报所弥补，也是一个平台将所有权传递给用户的一种机制。（之前web 2的投放广告是向平台付费获取目标用户，而空投则是通过交易数据直接激励目标用户）
@@ -931,7 +931,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 【相关链接】 https://www.decentralised.co/p/on-airdrops
 
 3月第10篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】如何重振死气沉沉的社区
 【核心内容简介】
 文章以目前NFT社区总体的低迷状态为切入点，向读者介绍了如何重新激活一个死气沉沉的社区。
@@ -949,7 +949,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 
 
 3月第11篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】NFT（DAO）应该为谁服务？
 【核心内容简介】
 作者提出了一个NFT项目方究竟是以创新者为目标还是以大多数人为目标的问题并给出自己的观点。作者认为，虽然大部分NFT和DAO项目都倾向于如何拿下大多数人，但是他建议目前启动的NFT和DAO项目应该面向懂Web 3的小范围创造者（builder）。
@@ -961,7 +961,7 @@ Etherscan 没有代币，更类似传统SaaS业务，收入包括：1）SaaS：�
 
 
 3月第12篇
-【输出人】@Nicole 
+【输出人】Nicole 
 【主题】人工智能、神经科学和 DeFi - 反对 DeFi 监管的案例
 【核心内容简介】
 本文借助DeFi Dojo的founder Stephen就前段时间发布的关于尽可能少的监管作为理想监督模型的推文为起点，探讨了监管和DeFi的关系。一方面，监管可以使DeFi更安全，此外，监管也会为DeFi带来机构投资者。另一方面，监管不仅和DeFi背道而驰（DeFi的核心是去中心化），由于缺乏监管的直接技术优势是DeFi的最大优势，这也可能会受到监管的影响。

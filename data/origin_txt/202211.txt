@@ -20,7 +20,7 @@ BendDAO 问题出在哪？即把本应用在“流动性资产”上的自动借
 https://wenli.substack.com/p/nft?utm_source=substack&publication_id=889562&post_id=72352647&isFreemail=true&utm_medium=email
 
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】Opensea链上版税工具引争议，以版税之名行垄断之实？
 【核心内容简介】
 Opensea链上强制执行版税工具规定，NFT项目方如果想在Opensea上正常收取版税，必须使用Opensea的强制版税合约，但该合约会拉黑所有推出自定义版税的平台。如果NFT项目方不愿意拉黑其他交易平台，那么Opensea官方将会把该项目方在Opensea上产生的所有版税直接降至0。
@@ -413,7 +413,7 @@ https://messari.io/report/web3-social-usage-and-engagement?referrer=all-research
 【相关链接】https://mp.weixin.qq.com/s/CZ-vtQPaQBDxyl2qN0h1dQ
 
 2022-11月第3周
-【输出人】abby
+【输出人】Abby
 【主题】：加密行业投资复盘及展望：2023 年哪些赛道值得关注 
 
 核心内容简介：
@@ -483,7 +483,7 @@ ve 代币模型的缺点：大量涌入的流动性衍生品和建立在其之�
 【个人思考】Curve创造的ve-token模型本身就是代币经济学的一大创新，而Convex协议也不过是说明市场不会放过任何一个可以获利的漏洞。Curve的流动性战争背后涉及的各大稳定币资方才是让Convex及其他贿赂协议存续的原因，作为Curve平台服务的对象，这些人本身也是Curve的忠实支持者，这么看其实不能说忠实支持者没有获利。此外，Curve现在是作为defi的基础设施，不可缺少，但是不代表着可以让大家获利，好的，说的就是我们散户。
 【相关链接】https://foresightnews.pro/article/detail/18001
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】Tornado.cash 新旧版机制对比
 【核心内容简介】
 Tornado.cash是一个混币协议，其核心是利用零知识证明zk snark技术，来解决以太坊上用户多个地之间转移代币的隐私保护问题。
@@ -680,7 +680,7 @@ FTX 暴雷引发市场恐慌，加密货币价格全面下跌。从长远来看�
 根据网传数据FTX挪用用户资金数达150亿美元，从这几天持续挖掘的背景信息或许可以猜测这些钱已经被洗出Crypto。按当前市场的加密市值估计，150亿大约是整个市场将近2%的流动性。一个“证券市场”2%的流动性消失，意味着什么？！
 【相关链接】https://foresightnews.pro/article/detail/18751
 
-【输出人】shuang^
+【输出人】shuang
 【主题】 对DAO融入现实的思考
 【核心内容简介】
 Highlights: 
@@ -703,7 +703,7 @@ DAO照进现实的两个方面分析：
 推荐阅读：https://shawn.mirror.xyz/EhIIKze9K4aZ6EP0KJRCh4acxZSnnycswlj29F5RbjE
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】 6张拓扑图揭秘中心化交易所的5种行为
 【核心内容简介】
 本文介绍了一个图表浏览器工具，能够将可视化地址、交易所以及区块链内的其他已知实体之间的关系行程拓扑图。
@@ -724,7 +724,7 @@ DAO照进现实的两个方面分析：
 
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】 AIGC之AI绘画: 技术与应用双突破，生产力变革在即
 
 【核心内容简介】
@@ -1334,7 +1334,7 @@ https://m.odaily.news/post/5182794
 【相关链接】https://www.panewslab.com/zh/articledetails/hzo7sx9e.html
 
 
-【输出人】shuang^
+【输出人】shuang
 【主题】Foresight Ventures: 我们如何为Web3社交平台设计产品模型
 
 【核心内容简介】
@@ -1354,7 +1354,7 @@ https://m.odaily.news/post/5182794
 【相关链接】
 https://mp.weixin.qq.com/s/_z27dWQVU6Pgft0-Oh1pjA
 
-【输出人】shuang^
+【输出人】shuang
 【主题】DAOrayaki Podcast ｜对话Eric Zhang：开放社区Grant DAOs治理的投票信用构建
 
 【核心内容简介】
@@ -1374,7 +1374,7 @@ Dora团队对社区治理工具不断更新，也会结合每个社区的侧重�
 【相关链接】
 https://mp.weixin.qq.com/s/YsNaeZ5F2xPBLKl3DW8xZg
 
-【输出人】shuang^
+【输出人】shuang
 【主题】DAOrayaki ｜详解最小化反共谋基础设施（MACI）
 【核心内容简介】
 本文讲解了DAO治理中的一种抗串通抗共谋的方式——MACI，通过使用zk-SNARKs来允许用户进行链上投票，隐藏个人身份并可保证投票结果。 
@@ -1394,7 +1394,7 @@ https://daorayaki.org/a-technical-introduction-to-maci-1-0/
 《On Collusion》 https://vitalik.ca/general/2019/04/03/collusion.html
 https://mp.weixin.qq.com/s/X-7rCpzYnVr0BJvpiKFRlA
 
-【输出人】shuang^
+【输出人】shuang
 【主题】DAOrayaki Podcast ｜对话Eric Zhang：开放社区Grant DAOs治理的投票信用构建
 
 【核心内容简介】
@@ -1414,7 +1414,7 @@ Dora团队对社区治理工具不断更新，也会结合每个社区的侧重�
 【相关链接】
 https://mp.weixin.qq.com/s/YsNaeZ5F2xPBLKl3DW8xZg
 
-【输出人】shuang^
+【输出人】shuang
 【主题】熊市中悄悄热门的 DeFi 新叙事：真实收益(RealYield)
 【核心内容简介】
 一、Real Yield 概念梳理
@@ -1434,7 +1434,7 @@ Net Revenue = Protocol Revenue — Market value of protocol emissions
 https://mp.weixin.qq.com/s/_D65RjgH6DU1FYIQNax9Lw
 https://blog.dodoex.io/%E5%AE%A1%E8%A7%86-defi-%E6%96%B0%E5%8F%99%E4%BA%8B-realyield-396dd76375d9
 
-【输出人】shuang^
+【输出人】shuang
 【主题】重新梳理Polygon：以太坊扩容瑞士军刀的现状、未来增长点和估值分析
 【核心内容简介】
 本文详细梳理了Polygon的生态现状。对于原生代币来说：MATIC，初始代币共为100亿枚，有10%的基金会代币未参与流通，2.7%的代币仍然留在合约内。目前Polygon的业务主要分为Polygon POS 和 ZK Rollup项目，基于其目标解决以太坊扩容问题，目前生态内有以下解决方案：
@@ -1469,7 +1469,7 @@ Polygon在其上部署的智能合约数量已经不断增长，许多品牌和�
 【相关链接】https://www.odaily.news/post/5182839
 
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】Ceramic核心技术概览：动态存储为什么能更好地释放数据价值？
 【核心内容简介】
 1、Ceramic采用W3C DID标准，账户（对应一个DID标识符）代表用户，可以跨多个链绑定多个钱包地址、多个社交账户
@@ -1511,7 +1511,7 @@ DAO 的分配模式类似新建国家，在初期印刷无价值的货币支付�
 【个人思考】DAO容易吸引更多不愿被集中控制的人才，自由平台的工作环境，给予试错机会和自由思考的环境会带来更大的创造力。DAO需要解决的问题也很多，作者提出让DAO改成模块化，划分成很多最小单元带来小的稳定。治理者的个人影响力是把双刃剑，应该用通证模型来避免中介危机。
 【相关链接】https://mirror.xyz/dreamrobber.eth/X-fxCaqnHElwQBolnTMhBzOjmbWAnB3JrKb8uB7rfoE
 
-【输出人】十四
+【输出人】shisi.eth
 【主题】以太坊的抗审查之路
 【核心内容简介】
 如今，许多 dapps 的前端接口都是中心化的，也是同样畏惧审查的，然而这些去中心化的基础设施协议构成了 DeFi 前端去中心化 Web3 经济的基本构件。其次面对节点中心化问题，关键的技术解决方案是轻客户端，向任何接受轻量级客户端查询的完整节点广播交易并发出请求，从而避开单一infura等机构的中心化控制风险。

@@ -39,7 +39,7 @@ https://twitter.com/LayerZero_Labs/status/1611070058972999680?s=20&t=7VI-UbvPVae
 https://mp.weixin.qq.com/s/E_vlnPSulrTLq9hWv0rPmA
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Delphi Digital 详解 Sei Network
 【核心内容简介】
 Sei 是 Cosmos 上的 L1 区块链，核心是 CLOB 协议，是专注于高性能的链。
@@ -119,7 +119,7 @@ https://www.panewslab.com/zh/articledetails/dlr3rujc.html
 https://mirror.xyz/0xrj.eth/Bf3TZXPoeyuCY-nYfM373IjFZqrg_BotpDguKVOYe4E
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Coinbase CEO：加密行业需要怎样的中心化监管
 【核心内容简介】
 1、为中心化参与者创建监管清晰度，包括稳定币发行人、交易所和托管人，这是消费者风险最大的部分。Armstrong 对不同的中心化参与者监管提出了不同规则，并认为需要建立法律的先例，例如去中心化的评判标准等。
@@ -130,7 +130,7 @@ https://mirror.xyz/0xrj.eth/Bf3TZXPoeyuCY-nYfM373IjFZqrg_BotpDguKVOYe4E
 【相关链接】
 https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-industry-from-here
 
-【输出人】shuang^
+【输出人】shuang
 【主题】链上期权，迈入非线性加密衍生世界的窄门
 【核心内容简介】
 文章内容框架：
@@ -165,7 +165,7 @@ https://www.coinbase.com/blog/regulating-crypto-how-we-move-forward-as-an-indust
 https://mp.weixin.qq.com/s/NEeGYVE6aseIdt8aHE_eCg
 
 
-【输出人】shuang^
+【输出人】shuang
  【主题】期权合约入门|| Deribit Insights
 【核心内容简介】
 本篇介绍了期权的基础概念。
@@ -190,7 +190,7 @@ Deribit 上运行的期权只能在到期时候行权，且以现金结算。
 https://mp.weixin.qq.com/s/bN4MGZbh-bEaK5_-vcdKbw
 
 
-【输出人】shuang^
+【输出人】shuang
  【主题】如何依靠加密货币波动率指数来获取收益？
 【核心内容简介】
 文章开头指出，加密货币波动率指数（CVI）的近期情况为历史最低。作为 Crypto 领域中的 VIX 指数，这个类比市场恐慌指数（0～200）。
@@ -216,7 +216,7 @@ https://www.youtube.com/watch?v=HoDwWCJy4Tg
 
 —— 2023-1 月-第 2 周 ——
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】全链游戏：2023 年链游发展的新方向
 【核心内容简介】
 对 DeFi 成功经验的借鉴分为两个方向：整合 DeFi 中的代币激励形成 GameFi 和 构建去中心化链上游戏 DeGame。
@@ -307,7 +307,7 @@ Lido 当前两个核心问题：双层治理模式、发展 DVT。
 
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】Delphi Digital DeFi 报告的 7 个来年展望
 【核心内容简介】
 报告中先回顾了 2022 年 DeFi 的情况，总结了 4 点主要障碍：所有具有吸引力的 DeFi 产品都是基于投机的原语，新用户转化过程繁琐，用户留存具有挑战性，加密世界的整体用户体验不甚理想。DeFi 的进化将会是一个长期的过程。
@@ -359,7 +359,7 @@ https://messari.io/report/the-open-social-map?referrnnnnnnnnnnner=all-research
 【个人思考】跨链桥被盗在加密世界层数不穷，而在多链未来的叙事中跨链也是不可缺少的部分，足以见得跨链及跨链安全的重要性。跨链的应用存在智能合约风险，跨链协存在额外信任的假设，跨链的发展也都是权衡利弊。由此联想到各条公链的发展也是在“不可能三角”中进行权衡取舍，trade-off 展现的淋漓尽致。技术的取舍都是基于协议的定位，反过来基于不同的定位技术发展方向不同，相辅相成。
 【相关链接】https://web3caff.com/zh/archives/47025
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】2023 年 3 个或被低估的产品趋势分析
 【核心内容简介】
 回顾去年：
@@ -376,7 +376,7 @@ https://messari.io/report/the-open-social-map?referrnnnnnnnnnnner=all-research
 https://www.theblockbeats.info/news/33509
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】从基本原则进行 token 设计
 【核心内容简介】
 协议 token 两个基本设计原则：一是协调参与者难以自行有效、经济地提供的公共利益；二是将价值导向创造价值的人，优先将价值分配给高效用群体，而非参与者之间的价值转移。
@@ -433,7 +433,7 @@ Web3 数据赛道是比较适合创业新手尝试的方向，但这个方向有
 2022 年将过，最近各种回顾与总结的文章，有句话共勉之：“If You Don't Know the Source of Yield， You're the Source…”
 【相关链接】https://mp.weixin.qq.com/s/c0QHRZkrRXe7TePW9XbMPA
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】复盘常见的 DeFi 经济模型攻击
 【核心内容简介】
 DeFi 今年迄今损失总金额超 30 亿美元，笔者认为，对 DeFi 的经济模型攻击更有研究价值，有助于加密行业理解代币经济学。
@@ -448,7 +448,7 @@ DeFi 今年迄今损失总金额超 30 亿美元，笔者认为，对 DeFi 的�
 https://news.marsbit.co/20221219204707509835.html
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】a16z：应该如何恰当的进行加密资产活动监管
 【核心内容简介】
 CeFi 和 DeFi：两者的区别主要在于是否中心化、有无第三方中介、是否公开透明。
@@ -461,7 +461,7 @@ DeFi 的新监管框架：原则应当是监管应用而非协议。DeFi 协议�
 https://news.marsbit.co/20221228110454109225.html
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】从 Degen 到 Regen：如何推动 Web3 开启正和游戏
 【核心内容简介】
 纯粹的逐利行为在 Web3 中是不适应的，加密货币一直有作为用于建立协作组织和共享资源的工具的一面，笔者引用再生经济学，认为 2023 年将成为再生之年（year of the regen）。
@@ -476,7 +476,7 @@ Regens 指那些在再生性加密经济中工作或建设的人，他们对 Web
 https://news.marsbit.co/20221228105456794623.html
 
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】从 Loot 仿盘到去中心化的任天堂：社区文化+ MLP 策略
 【核心内容简介】
 Treasure 最早的 NFT 在当时和其他 Loot 仿盘没有任何区别。在发行了 NFT 后，Treasure 就发行了 MAGIC 代币和 DeFi 项目 MAGIC Farm，意图以此曲线赋能 NFT 的方法，虽然失败了，但它开辟了后来成为其核心的 MAGIC 生态。
@@ -490,7 +490,7 @@ Loot 项目本身吸引了许多长期主义者，他们抱持着让社区拥有
 【相关链接】
 https://news.marsbit.co/20221228085425005540.html
 
-【输出人】@SCaesar
+【输出人】SCaesar
 【主题】DeSci 赛道远景与生态概览
 【核心内容简介】
 DeSci 是 Gitcoin 最近一轮捐赠中受到关注的较新概念，其理念在于“科学知识应该为每个人所接受，科学研究的过程应该是透明的”，主张在资金分配、合作、决策机制、共享研究资源、访问权限、同行评审、IP、出版和专利等方面改变现有的科学环境。 
